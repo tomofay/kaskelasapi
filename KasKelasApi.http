@@ -1,0 +1,6 @@
+@KasKelasApi_HostAddress = http://localhost:5177
+
+GET {{KasKelasApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
